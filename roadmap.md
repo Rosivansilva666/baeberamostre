@@ -1,0 +1,5 @@
+- [x] Criar identidade visual e páginas Home, Serviços, Galeria e Contato.
+- [x] Implementar agendamento em quatro etapas e mensagem formatada ao WhatsApp.
+- [x] Validar navegação e layouts em telas pequenas e grandes.
+- [ ] Direcionar mensagens ao número da barbearia. Bloqueado: número não fornecido.
+- [ ] Exibir avaliações reais. Bloqueado: avaliações não fornecidas; não inventar depoimentos ou notas.
