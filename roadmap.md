@@ -1,0 +1,3 @@
+- [ ] Criar identidade visual e páginas Home, Serviços, Galeria e Contato.
+- [ ] Implementar agendamento em quatro etapas e envio formatado ao WhatsApp.
+- [ ] Validar navegação e layouts em telas pequenas e grandes.
